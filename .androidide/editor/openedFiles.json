@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HelloJni/app/src/main/java/com/example/hellojni/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 905,
+          "line": 34
+        },
+        "start": {
+          "column": 12,
+          "index": 905,
+          "line": 34
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HelloJni/app/src/main/cpp/hello-jni.cpp",
+      "selection": {
+        "end": {
+          "column": 4,
+          "index": 329,
+          "line": 9
+        },
+        "start": {
+          "column": 4,
+          "index": 329,
+          "line": 9
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/HelloJni/app/src/main/cpp/CMakeLists.txt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/HelloJni/app/src/main/java/com/example/hellojni/MainActivity.java"
+}
